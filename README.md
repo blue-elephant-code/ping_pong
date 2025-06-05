@@ -1,1 +1,1 @@
-# ping_pong
+# Игра ping_pong в терминале Mac OS, написанная на С.
